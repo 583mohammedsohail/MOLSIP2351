@@ -1,0 +1,13 @@
+
+person = {'name': 'sohail', 'age': 21, 'city': 'New York'}
+
+
+person['gender'] = 'Male'
+print(person)  
+print(person.get('age'))  
+
+print(list(person.keys()))  
+print(list(person.values()))  
+print(list(person.items()))  
+
+

@@ -1,0 +1,13 @@
+
+numbers = {1, 2, 3, 4, 5}
+
+numbers.add(6)
+print(numbers) 
+
+numbers.update({5, 7, 8})
+print(numbers)  
+
+numbers.remove(3)
+print(numbers)  
+
+

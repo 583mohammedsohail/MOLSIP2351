@@ -1,0 +1,21 @@
+
+fruits = ['apple', 'banana', 'orange']
+
+fruits.append('grape')
+print(fruits)  
+
+fruits.extend(['watermelon', 'pineapple'])
+print(fruits)  
+
+fruits.insert(2, 'cherry')
+print(fruits)  
+
+fruits.remove('banana')
+print(fruits)  
+
+fruits.pop(3)
+print(fruits)  
+
+fruits.sort()
+print(fruits)  
+

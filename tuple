@@ -1,0 +1,6 @@
+
+colors = ('red', 'green', 'blue')
+
+
+print(colors.count('red')) 
+print(colors.index('green'))  
